@@ -10,6 +10,7 @@
 @50      : The Mountain Empire                        telnet://bbs.wwiv.net
 @61      : Aliens' Abode (aka Aliens' Alcove 2) telnet://aliens.free.net.ph
 @90      : The Wretched Beagle              telnet://bbs.wretchedbeagle.com
+@103     : Firefly BBS                              telnet://fireflybbs.com
 @206     : Cloud City BBS                    telnet://wwiv.cloudcitybbs.com
 @255     : Alpha Centauri BBS          telnet://acentauribbs.no-ip.org:2002
 @514     : Mystic Rhythms                                        <unlisted>
